@@ -1,7 +1,10 @@
-html {
-  background: blue;}
+
+ 
 body { 
-  text-align:center;}
+  text-align:center;
+   background-color: blue;
+  }
+
 
 h1{
   color:red;
