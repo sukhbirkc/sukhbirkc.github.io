@@ -1,15 +1,22 @@
 
- 
+
 body { 
-  text-align:center;
-   background-color: #076D9F;
+  
+   background-color: #FFC0CB;
   }
 
 
 h1{
   color:#CA0072;
+    font-size:50px;
 }
 
 p{
- color:#FCC400;
+ color:#0000FF;
+    text-align:center;
+    font-size:30px;
+}
+h2{
+  color:#CA0072;
+    font-size:40px;
 }
