@@ -5,6 +5,7 @@ body {
    background-color: #FFC0CB;
   border-width:5px;  
     border-style:double;
+   border-color:#CA0072;
   }
 
 
@@ -15,7 +16,7 @@ h1{
 }
 
 p{
- color:#0000FF;
+ color:white;
     text-align:center;
     font-size:30px;
 }
