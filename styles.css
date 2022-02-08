@@ -1,41 +1,43 @@
 
-
-body { 
-  
-   background-color: #FFC0CB;
-  border-width:5px;  
+body {  
+   background-color: black;
+    border-width:5px;  
     border-style:double;
-   border-color:#CA0072;
+    border-color:white;
   }
 
-
-h1{
+h1{   
   color:#CA0072;
     font-size:50px;
+    background-color: white;  
 }
 
 p{
- color:white;
+ color: white;
     text-align:center;
-    font-size:30px;
+    font-size:30px;    
 }
 h2{
   color:#CA0072;
     font-size:40px;
+    background-color: white;
 }
 h3{
+   background-color: white;
   color:#CA0072;
-    font-size:25px;
+    font-size:25px;    
 }
+
 ul{
     font-size:30px;
-   color:#4B0082;
+     color:#4B0082;  
 }
 ol{
  
     font-size:25px;
-     color:#4B0082;
+     color:white;   
 }
 body{
     background:url(https://data.whicdn.com/images/178775900/original.jpg);
+    
 }
